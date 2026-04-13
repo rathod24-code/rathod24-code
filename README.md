@@ -43,12 +43,11 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rathod24-code&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rathod24-code&layout=donut&theme=tokyonight&hide_border=true&langs_count=6" width="36%"/>
-</p>
+![Rahul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rathod24-code&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rathod24-code&layout=compact&theme=radical&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=rathod24-code&theme=radical&hide_border=true)
 
 ## 📈 Contribution Graph
 
