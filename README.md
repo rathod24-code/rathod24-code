@@ -43,11 +43,11 @@
 
 ## 📊 GitHub Stats
 
-![Profile Views](https://komarev.com/ghpvc/?username=rathod24-code&color=blueviolet&style=flat)
-
-![Rahul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rathod24-code&show_icons=true&theme=radical&hide_border=true)
+![Rahul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rathod24-code&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rathod24-code&layout=compact&theme=radical&hide_border=true)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=rathod24-code&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 ## 📈 Contribution Graph
 
