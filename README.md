@@ -10,7 +10,7 @@
 ## 🙋 About Me
 
 - 🔭 GSoC 2026 Applicant at **C2SI Org** — GDB-UI project
-- 🎓 2nd Year B.Tech **Data Science Engineering** at **IISER Bhopal**
+- 🎓 3nd Year B.Tech **Data Science Engineering** at **IISER Bhopal**
 - 💻 Strong in **C/C++** with interest in **AI/ML & Web Dev**
 - 🌱 Currently learning: **React, Open Source, Git**
 - 📫 Email: **rathod24@iiserb.ac.in**
