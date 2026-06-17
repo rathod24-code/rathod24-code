@@ -2,7 +2,7 @@
 <h3 align="center">Data Science Engineering Student | GSoC 2026 Applicant | Open Source Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&width=500&lines=2nd+Year+B.Tech+at+IISER+Bhopal;Data+Science+%2B+C%2B%2B+Developer;GSoC+2026+Applicant+%40+C2SI;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&width=500&lines=3rd+Year+B.Tech+at+IISER+Bhopal;Data+Science+%2B+C%2B%2B+Developer;GSoC+2026+Applicant+%40+C2SI;Open+Source+Contributor" alt="Typing SVG" />
 </p>
 
 ---
@@ -10,7 +10,7 @@
 ## 🙋 About Me
 
 - 🔭 GSoC 2026 Applicant at **C2SI Org** — GDB-UI project
-- 🎓 3nd Year B.Tech **Data Science Engineering** at **IISER Bhopal**
+- 🎓 3rd Year B.Tech **Data Science Engineering** at **IISER Bhopal**
 - 💻 Strong in **C/C++** with interest in **AI/ML & Web Dev**
 - 🌱 Currently learning: **React, Open Source, Git**
 - 📫 Email: **rathod24@iiserb.ac.in**
